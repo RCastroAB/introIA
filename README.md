@@ -1,2 +1,0 @@
-# introIA
-trabalho de IA
