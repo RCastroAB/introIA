@@ -22,11 +22,7 @@ Já o simulador de vagina é inserido na boneca e também conecta com o aplicati
 
 ### Software
 
-Todo o funcionamento do sistema é coordenado por um app, antes chamado Harmony, hoje RealDoll-X. No modo principal do app, o usuário pode conversar com a boneca, seja virtual seja presente, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz.
-
-
-### Smoke and Mirrors
-
+Todo o funcionamento do sistema é coordenado por um app, antes chamado Harmony, hoje RealDoll-X. No modo principal do app, o usuário pode conversar com a boneca, seja virtual seja presente, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz. A "IA" também tem medidores de felicidade e excitação, o segundo usado para "desbloquear" interações sexuais. As interações por App são um minigame de tocar na tela.
 
 Alguns recursos:
 
@@ -35,3 +31,5 @@ Alguns recursos:
 [Thread com avaliações negativas sobre o app](https://old.reddit.com/r/RealDolls/comments/1162v87/realdollx_experiences/)
 
 [Página arquivada da Realbotix, diferente da atual com foco em andróides](https://web.archive.org/web/20180107055323/https://realbotix.com/)
+
+[Incel descreve a relação dele com sexdolls](https://yewtu.be/watch?v=VPceoJF6xGk)
