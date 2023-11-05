@@ -12,9 +12,26 @@ O "robô" da empresa, combinação do corpo sintético com cabeça mecânica tem
 
 O aplicativo funciona semelhante a um competidor mais popular chamado Replika. O usuário customiza a aparência da sua boneca virtual, escolhe um conjunto de "traços de personalidade," com valores tão variados quanto "intelectual" e "jealous," e a voz do chatbot. Em seguida o usuário pode conversar com a boneca, mas precisa pagar para liberar o "Private Room," uma espécie de DLC, para ter interações sexuais na forma de mini-games scriptados. O usuário também pode usar dinheiro real para comprar cosméticos (roupas) ou poses para o "Private Room."
 
+A "Inteligência Artificial" desses sistemas se resumem a duas coisas: um modelo de linguagem natural capaz de responder perguntas e manter uma conversa, e um sistema de movimentos faciais para simular emoções.
+
+### Hardware
+
+Como já descrito, a maior parte da boneca é puramente uma boneca sexual, com pele e esqueletos sintéticos e estáticos. As únicas partes relevantes no aspecto técnico são a cabeça animatrônica, e o simulador de vagina acoplável. A cabeça possui um auto-falante e motores para movimentar os olhos, sobrancelhas e boca. Os olhos supostamente utilizam tracking visual utilizando a câmera do celular, e todos as ações da cabeça são coordenadas em software por um aplicativo, conecatado por bluetooth. Em especial ela não tem nenhum microfone, e todo input vêm apenas do celular.
+
+Já o simulador de vagina é inserido na boneca e também conecta com o aplicativo por bluetooth. Ele possui sensores de toque, e as percepções são enviadas para o aplicativo, que redireciona para a cabeça com a reação "apropriada."
+
+### Software
+
+Todo o funcionamento do sistema é coordenado por um app, antes chamado Harmony, hoje RealDoll-X. No modo principal do app, o usuário pode conversar com a boneca, seja virtual seja presente, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz.
+
+
+### Smoke and Mirrors
+
+
 Alguns recursos:
 
 [Apresentação da Realbotix em uma conferência sobre IA](https://yewtu.be/watch?v=pC4Jjjoohl8)
 
 [Thread com avaliações negativas sobre o app](https://old.reddit.com/r/RealDolls/comments/1162v87/realdollx_experiences/)
 
+[Página arquivada da Realbotix, diferente da atual com foco em andróides](https://web.archive.org/web/20180107055323/https://realbotix.com/)
