@@ -8,7 +8,7 @@
 
 Um dos empreendimentos mais recentes da indústria erótica é o desenvolvimento de bonecas sexuais com Inteligência Artificial. Tais bonecas vêm do mesmo mercado que produz as bonecas sexuais hiper-realistas, comercializadas já a alguns anos. O desenvolvimento de Inteligência Artificial para ocupar esses corpos de silicone começou como uma corrida por um produto diferenciado, mas é divulgado como uma nova ferramenta contra a solidão. As bonecas inteligentes são semelhantes às mulheres humanas e, com a IA, são capazes de memorizar os gostos de seu dono e conversar enquanto assistem TV . Companheiras para o combate à solidão, para experimentar a sexualidade ou ajudar nas relações interpessoais; as bonecas sexuais são comercializadas como uma alternativa para pessoas que se sentem só ou que tem dificuldades de encontrar uma parceira humana. 
 
-A empresa <em>Abyss Creations LLC</em>, escolhida para ter a tecnologia analisada neste trabalho, criou em 1996 sua linha de bonecas sexuais com pele sintética e esqueleto interno. Em 2017 essa foi lançado o aplicativo <em>Harmony</em> (hoje RealDollx), onde a boneca tem uma representação por um avatar customizável e um chatbot. O app pode ser usado de maneira independente, fornecendo uma companhia para usuários de todo o mundo. Entretanto, Harmony foi criado para ser acoplado às bonecas sexuais. Para combinar os dois produtos, foi criada uma cabeça mecânica que simula as interações com o aplicativo, simulando expressões faciais, movimento dos lábios e reproduzindo sons.
+A empresa <em>Abyss Creations LLC</em>, escolhida para ter a tecnologia analisada neste trabalho, criou em 1996 sua linha de bonecas sexuais com pele sintética e esqueleto interno. Em 2017 essa foi lançado o aplicativo <em>Harmony</em> (hoje RealDoll-X), onde a boneca tem uma representação por um avatar customizável e um chatbot. O app pode ser usado de maneira independente, fornecendo uma companhia para usuários de todo o mundo. Entretanto, Harmony foi criado para ser acoplado às bonecas sexuais. Para combinar os dois produtos, foi criada uma cabeça mecânica que simula as interações com o aplicativo, simulando expressões faciais, movimento dos lábios e reproduzindo sons.
 
 O aplicativo funciona semelhante a um competidor mais popular chamado <em>Replika</em>. O usuário customiza a aparência da sua boneca virtual, escolhe um conjunto de "traços de personalidade," com valores tão variados quanto "intelectual" e "jealous," e a voz do chatbot. Em seguida o usuário pode conversar com a boneca, mas precisa pagar para liberar o "Private Room," uma espécie de DLC, para ter interações sexuais na forma de mini-games scriptados. O usuário também pode usar dinheiro real para comprar cosméticos (roupas) ou poses para o "Private Room."
 
@@ -16,15 +16,22 @@ O "robô" da <em>Abyss Creations LLC</em>, combinação do corpo sintético com 
 
 A "Inteligência Artificial" desses sistemas se resumem a duas coisas: um modelo de linguagem natural capaz de responder perguntas e manter uma conversa, e um sistema de movimentos faciais para simular emoções.
 
+[^1]: Ignorando por um segundo a pressuposição que os mesmos recursos, técnicas e tecnologias para criar uma bonecas sexual seriam ideiais para também criar robôs que servem uma função na sociedade (por exemplo, porque uma enfermeira robótica precisaria de "pele realística ao toque"?
+
 ### Hardware
 
-Como já descrito, a maior parte da boneca é puramente uma boneca sexual, com pele e esqueletos sintéticos e estáticos. As únicas partes relevantes no aspecto técnico são a cabeça animatrônica, e o simulador de vagina acoplável. A cabeça possui um auto-falante e motores para movimentar os olhos, sobrancelhas e boca. Os olhos supostamente utilizam tracking visual utilizando a câmera do celular, e todos as ações da cabeça são coordenadas em software por um aplicativo, conecatado por bluetooth. Em especial ela não tem nenhum microfone, e todo input vêm apenas do celular.
+Como já descrito na Introdução, a maior parte da boneca é puramente uma boneca sexual, com pele e esqueletos sintéticos e estáticos. As únicas partes relevantes no aspecto técnico são a cabeça animatrônica, e o simulador de vagina acoplável. A cabeça possui um auto-falante e motores para movimentar os olhos, sobrancelhas e boca. Os olhos supostamente utilizam tracking visual utilizando a câmera do celular, e todos as ações da cabeça são coordenadas em software por um aplicativo, conecatado por bluetooth. Em especial ela não tem nenhum microfone, e todo input vêm apenas do celular. 
 
-Já o simulador de vagina é inserido na boneca e também conecta com o aplicativo por bluetooth. Ele possui sensores de toque, e as percepções são enviadas para o aplicativo, que redireciona para a cabeça com a reação "apropriada."
+O simulador de vagina vem separado do resto da boneca, assim como a cabeça animatrônica. Ambas precisam serem carregas e ligadas ao bluetooth para funcionar. A cabeça tem uma base fixa no topo do corpo sintético, e não existe razão para remove-lá ou manuseá-la com frequência. A vagina artificial, por outro lado, é fácilmente inserida ou retirada da boneca, o que facilita questões de manutenção e higienização do produto. Ela possui sensores de toque, e as percepções são enviadas para o aplicativo, que redireciona para a cabeça com a reação "apropriada".
+
+A empresa busca para as novas gerações que os corpos das bonecas consigam emitir de calor em determinadas partes do corpo, tenham mais sensores de toque e cameras imbutidas nos olhos, que permitiriam que a boneca reconhecesse pessoas, objetos e ambientes.
 
 ### Software
 
-Todo o funcionamento do sistema é coordenado por um app, antes chamado Harmony, hoje RealDoll-X. No modo principal do app, o usuário pode conversar com a boneca, seja virtual seja presente, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz. A "IA" também tem medidores de felicidade e excitação, o segundo usado para "desbloquear" interações sexuais. As interações por App são um minigame de tocar na tela.
+Todo o funcionamento do sistema é coordenado por um aplicativo, antes chamado <em>Harmony</em>, hoje <em>RealDoll-X</em>. No modo principal do app, o usuário pode conversar com a boneca, seja virtual ou materializada em uma sex doll de tamanho real, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz. A IA também tem medidores de felicidade e excitação, o segundo usado para desbloquear interações sexuais. As interações por App são um minigame de tocar na tela.
+
+A versão virtual das bonecas no <em>Harmony</em> é completamente customizável, inclusive informações e conhecimentos específicos podem ser adicionados no repertório da boneca para otimizar sua interação com o usuário. Matt McMullen, diretor criativo da <em>Abyss Creations LLC</em> define o produto como uma framework open source em sua [apresentação da Realbotix em conferência sobre IA](https://yewtu.be/watch?v=pC4Jjjoohl8)
+
 
 ### ética
 
@@ -41,7 +48,7 @@ De acordo com Donna Haraway, em suas discussões sobre o ciborgue, nossas práti
 
 1  Retirado de “Chegam os primeiros robôs sexuais: você pode escolher a personalidade deles”, El País, edição brasileira, sessão ‘tecnologia’. Disponível em: https://brasil.elpais.com/brasil/2018/03/18/tecnologia/1521391744_498617.html
 
-[^1]: Ignorando por um segundo a pressuposição que os mesmos recursos, técnicas e tecnologias para criar uma bonecas sexual seriam ideiais para também criar robôs que servem uma função na sociedade (por exemplo, porque uma enfermeira robótica precisaria de "pele realística ao toque"?
+
 
 Alguns recursos:
 
