@@ -10,7 +10,7 @@ Um dos empreendimentos mais recentes da indústria erótica é o desenvolvimento
 
 A empresa <em>Abyss Creations LLC</em>, escolhida para ter a tecnologia analisada neste trabalho, criou em 1996 sua linha de bonecas sexuais com pele sintética e esqueleto interno. Em 2017 essa foi lançado o aplicativo <em>Harmony</em> (hoje RealDoll-X), onde a boneca tem uma representação por um avatar customizável e um chatbot. O app pode ser usado de maneira independente, fornecendo uma companhia para usuários de todo o mundo. Entretanto, Harmony foi criado para ser acoplado às bonecas sexuais. Para combinar os dois produtos, foi criada uma cabeça mecânica que simula as interações com o aplicativo, simulando expressões faciais, movimento dos lábios e reproduzindo sons.
 
-O aplicativo funciona semelhante a um competidor mais popular chamado <em>Replika</em>. O usuário customiza a aparência da sua boneca virtual, escolhe um conjunto de "traços de personalidade," com valores tão variados quanto "intelectual" e "jealous," e a voz do chatbot. Em seguida o usuário pode conversar com a boneca, mas precisa pagar para liberar o "Private Room," uma espécie de DLC, para ter interações sexuais na forma de mini-games scriptados. O usuário também pode usar dinheiro real para comprar cosméticos (roupas) ou poses para o "Private Room."
+O aplicativo funciona semelhante a um competidor mais popular chamado <em>Replika</em>. O usuário customiza a aparência da sua boneca virtual, escolhe um conjunto de "traços de personalidade," com valores tão variados quanto "intelectual" e "jealous," e a voz do chatbot. Em seguida o usuário pode conversar com a boneca, mas precisa pagar para liberar o "Private Room," uma espécie de DLC, para ter interações sexuais na forma de mini-games scriptados. O usuário também pode usar dinheiro real para comprar cosméticos (roupas) ou poses para o "Private Room".
 
 O "robô" da <em>Abyss Creations LLC</em>, combinação do corpo sintético com cabeça mecânica e chatbot, tem funcionamento extremamente limitado. O marketing da empresa, todavia, insiste nas diversas funcionalidades que a boneca possa ter no futuro, [incluindo assistentes, recepcionistas, enfermeiras](https://yewtu.be/watch?v=pC4Jjjoohl8), com uso da IA mais sofisticada. Porém é notório que a boneca é incapaz se manter em pé sozinha ou fazer qualquer movimento para além de sua face, necessitando suporte em todo momento. Sua estrutura não vai além de um corpo de silicone, uma cabeça mecânica e um sensor em uma vagina sintética [^1]. 
 
@@ -30,7 +30,7 @@ A empresa busca para as novas gerações que os corpos das bonecas consigam emit
 
 Todo o funcionamento do sistema é coordenado por um aplicativo, antes chamado <em>Harmony</em>, hoje <em>RealDoll-X</em>. No modo principal do app, o usuário pode conversar com a boneca, seja virtual ou materializada em uma sex doll de tamanho real, e ela responde perguntas ou comandos um por um de forma similar a um chatbot. As respostas aparentam vir de um conjunto pre-definido de textos, em combinação com um sistema de text-to-speech simples, sem tons de voz. A IA também tem medidores de felicidade e excitação, o segundo usado para desbloquear interações sexuais. As interações por App são um minigame de tocar na tela.
 
-A versão virtual das bonecas no <em>Harmony</em> é completamente customizável, inclusive informações e conhecimentos específicos podem ser adicionados no repertório da boneca para otimizar sua interação com o usuário. Matt McMullen, diretor criativo da <em>Abyss Creations</em> define o produto como uma framework open source em sua [apresentação da Realbotix em conferência sobre IA](https://yewtu.be/watch?v=pC4Jjjoohl8)
+A versão virtual das bonecas no <em>Harmony</em> é completamente customizável, inclusive informações e conhecimentos específicos podem ser adicionados no repertório da boneca para otimizar sua interação com o usuário. Matt McMullen, diretor criativo da <em>Abyss Creations</em> define o produto como uma framework open source em sua [apresentação da Realbotix em conferência sobre IA](https://yewtu.be/watch?v=pC4Jjjoohl8).
 
 
 ### Impactos Sociais
@@ -39,11 +39,15 @@ A <em>Abyss Creations</em>, assim como outras empresas que comercializam corpos 
 
 Nesse filme, Lars é um sujeito de classe média com dificuldade para se relacionar socialmente. Ele adquire então uma boneca sexual e a apresenta para o resto da cidade enquanto sua namorada. Sua família e amigos, orientados por uma psicóloga, tornam-se cúmplices da alucinação de Lars, esperando que ele se recupere sozinho da ilusão que a boneca é viva. Lars não chega a ter relações sexuais com a boneca e a trata carinhosamente. Por fim, os dois terminam o relacionamento em uma discussão unilateral e a boneca vai parar no lixo. Lars passa então a se relacionar com a garota humana por quem sempre fora apaixonado, porém sem habilidade prévia e confiança para conversar.
 
+![Cena do filme "Lars and the Real Girl (2007)"](https://github.com/RCastroAB/introIA/assets/70421637/f5425002-8a98-4a36-8f8e-7eb63f8fa86d "Cena do filme "Lars and the Real Girl (2007)"")
+
+
 O filme traz o principal perfil divulgado pelas empresas como os donos de bonecas sexuais: homens solitários e/ou que estejam tendo algum problema emocional/sexual. O enredo do filme apoia a publicidade do setor, sempre tentando aproximar a ideia de potencial consumidor com o “sujeito comum”.
 
 >> “Tudo o que fazemos é pensando em ajudar alguém, em algum lugar”, afirma McMullen. “É mais profundo do que a gente pensa. Não é pornográfico. Eu quero fazer arte, tanto faz para mim se for uma vagina ou um pênis.” A boneca inteligente “será útil para quem não tem conexões com a sociedade ou não é capaz de fazer essas conexões”, explica. É assim que ele enxerga o seu produto. “Conheci muitos dos meus clientes que me contaram a relação que têm com as bonecas, e vi que é mais do que um brinquedo sexual. É como uma terapia contra a solidão. Tenho cartas de gente que me conta que a boneca lhes deu uma vida melhor. – Trecho de entrevista de Matt McMullen, da empresa Abyss (EUA)[^2].
 
-![image](https://github.com/RCastroAB/introIA/assets/70421637/7a82bbc7-193c-47b3-9c7a-2af7a9cc6198)
+![Propaganda Realbotix](https://github.com/RCastroAB/introIA/assets/70421637/48f11888-2b10-46ad-a317-ee2e5799dc1e "Divulgação Realbotix")
+
 
 Entretanto, as bonecas realistas sexuais, ao mesmo tempo que simulam uma companhia para pessoas solitárias, não deixam de ser um reflexo misógino de alguns desses homens e da sociedade em geral. Ainda que existam atualmente “bonecos sexuais”, com corpos masculinos, o mercado é dominado pela comercialização de bonecas femininas em suas mais diversas formas. Com efeito, o imperativo heterossexual homem-masculino-hétero é reforçado e reiterado nessas relações humano-boneca. 
 
@@ -60,7 +64,7 @@ A tecnologia jamais será neutra.
 
 [^1]: Ignorando por um segundo a pressuposição que os mesmos recursos, técnicas e tecnologias para criar uma bonecas sexual seriam ideiais para também criar robôs que servem uma função na sociedade (por exemplo, porque uma enfermeira robótica precisaria de "pele realística ao toque"?
 
-[^2] Retirado de “Chegam os primeiros robôs sexuais: você pode escolher a personalidade deles”, El País, edição brasileira, sessão ‘tecnologia’. Disponível em: https://brasil.elpais.com/brasil/2018/03/18/tecnologia/1521391744_498617.html
+[^2]: Retirado de “Chegam os primeiros robôs sexuais: você pode escolher a personalidade deles”, El País, edição brasileira, sessão ‘tecnologia’. Disponível em: https://brasil.elpais.com/brasil/2018/03/18/tecnologia/1521391744_498617.html
 
 Alguns recursos:
 
